@@ -1,0 +1,6 @@
+venv
+.env
+MangaLibNotifications/images
+db.sqlite3
+MangaLibNotifications/notificator/migrations/*
+.idea
